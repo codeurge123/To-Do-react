@@ -41,7 +41,6 @@ Then open your browser and go to:
 http://localhost:3000
 
 📁 Project Structure
-
 To-Do-react/
 ├── public/
 ├── src/
@@ -51,6 +50,7 @@ To-Do-react/
 │   └── styles.css        # Styling (optional)
 ├── package.json
 └── README.md
+
 📌 Future Enhancements
 ✨ Dark mode toggle
 
