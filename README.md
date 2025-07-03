@@ -41,17 +41,7 @@ Then open your browser and go to:
 http://localhost:3000
 
 📁 Project Structure
-<div>
-To-Do-react/
-├── public/
-├── src/
-│   ├── components/       # Task-related components
-│   ├── App.js            # Main app logic
-│   ├── index.js          # ReactDOM entry point
-│   └── styles.css        # Styling (optional)
-├── package.json
-└── README.md
-</div>
+<pre lang="markdown"> ```text To-Do-react/ ├── public/ ├── src/ │ ├── components/ # Task-related components │ ├── App.js # Main app logic │ ├── index.js # ReactDOM entry point │ └── styles.css # Styling (optional) ├── package.json └── README.md ``` </pre>
 
 📌 Future Enhancements
 ✨ Dark mode toggle
