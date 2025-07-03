@@ -21,7 +21,7 @@ A minimal and efficient To-Do List application built using **React.js**. It allo
 ## 🛠️ Tech Stack
 
 - ⚛️ React.js (Vite + React)  
-- 💅 CSS *(or Tailwind/Bootstrap if used)*  
+- 💅 Tailwind CSS  
 - 🧠 JavaScript (ES6+)  
 
 ## 📦 Installation
